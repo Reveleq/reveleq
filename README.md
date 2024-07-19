@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm learning programming and I want to become a full stack developer in the future</p>
+<p align="left">Programming is my future and passion</p>
 
 ###
 
